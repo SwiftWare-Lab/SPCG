@@ -1,4 +1,4 @@
-# SPCG: Sparse Matrix Computation on GPU and CPU
+# SPCG: Sparsified Preconditioned Conjugate Gradient Solver on GPUs
 
 This repository contains GPU and CPU implementations of sparse matrix iterative solvers with ILU0 and ILUK preconditioning.
 
